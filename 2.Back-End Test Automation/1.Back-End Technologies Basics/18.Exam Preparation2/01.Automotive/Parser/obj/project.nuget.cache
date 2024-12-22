@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UEm9G+/AUpw+034Z+6WlX5FR4pJrFIbBdy0oKUntZ7xCA/Mm9OIyEZy7KCwyLVy98Fq3I2Om4PtrY6ureNVTwQ==",
+  "success": true,
+  "projectFilePath": "B:\\Back-End Technologies Basics\\18.Exam Preparation2\\01.Automotive\\Parser\\JsonParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dreamwalk3r\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\dreamwalk3r\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\dreamwalk3r\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\dreamwalk3r\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

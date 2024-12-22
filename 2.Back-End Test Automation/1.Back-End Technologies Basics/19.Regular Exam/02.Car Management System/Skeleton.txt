@@ -1,0 +1,34 @@
+function solve(cars) {
+    function getCarsByBrand(brand) {
+        // TODO: Write your solution here
+    }
+
+    function addCar(id, brand, model, year, price, inStock) {
+        // TODO: Write your solution here
+    }
+
+    function getCarById(id) {
+        // TODO: Write your solution here
+    }
+
+    function removeCarById(id) {
+        // TODO: Write your solution here
+    }
+
+    function updateCarPrice(id, newPrice) {
+        // TODO: Write your solution here
+    }
+
+    function updateCarStock(id, inStock) {
+        // TODO: Write your solution here
+    }
+
+    return {
+        getCarsByBrand,
+        addCar,
+        getCarById,
+        removeCarById,
+        updateCarPrice,
+        updateCarStock
+    };
+}
