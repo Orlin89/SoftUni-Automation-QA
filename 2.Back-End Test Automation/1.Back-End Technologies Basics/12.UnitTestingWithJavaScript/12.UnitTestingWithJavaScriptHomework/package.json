@@ -1,0 +1,19 @@
+{
+  "name": "12.unittestingwithjavascripthomework",
+  "version": "1.0.0",
+  "description": "test homework",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  }
+}
