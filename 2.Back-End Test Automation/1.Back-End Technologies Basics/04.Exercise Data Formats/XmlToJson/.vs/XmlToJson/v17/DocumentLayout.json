@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\Back-End Technologies Basics\\4.Exercise Data Formats\\XmlToJson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8C2F1-B544-4C52-B815-0A5DFFAD691B}|XmlToJson.csproj|b:\\back-end technologies basics\\4.exercise data formats\\xmltojson\\datasets\\vehicles.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1AC8C2F1-B544-4C52-B815-0A5DFFAD691B}|XmlToJson.csproj|solutionrelative:datasets\\vehicles.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8C2F1-B544-4C52-B815-0A5DFFAD691B}|XmlToJson.csproj|b:\\back-end technologies basics\\4.exercise data formats\\xmltojson\\datasets\\devices.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1AC8C2F1-B544-4C52-B815-0A5DFFAD691B}|XmlToJson.csproj|solutionrelative:datasets\\devices.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicles.xml",
+              "DocumentMoniker": "B:\\Back-End Technologies Basics\\4.Exercise Data Formats\\XmlToJson\\Datasets\\Vehicles.xml",
+              "RelativeDocumentMoniker": "Datasets\\Vehicles.xml",
+              "ToolTip": "B:\\Back-End Technologies Basics\\4.Exercise Data Formats\\XmlToJson\\Datasets\\Vehicles.xml",
+              "RelativeToolTip": "Datasets\\Vehicles.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-14T12:37:29.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Devices.xml",
+              "DocumentMoniker": "B:\\Back-End Technologies Basics\\4.Exercise Data Formats\\XmlToJson\\Datasets\\Devices.xml",
+              "RelativeDocumentMoniker": "Datasets\\Devices.xml",
+              "ToolTip": "B:\\Back-End Technologies Basics\\4.Exercise Data Formats\\XmlToJson\\Datasets\\Devices.xml",
+              "RelativeToolTip": "Datasets\\Devices.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-14T12:24:52.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

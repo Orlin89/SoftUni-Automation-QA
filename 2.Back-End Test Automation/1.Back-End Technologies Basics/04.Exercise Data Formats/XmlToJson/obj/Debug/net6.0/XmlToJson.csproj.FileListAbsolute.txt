@@ -1,0 +1,16 @@
+B:\Back-End Technologies Basics\4.Exercise Data Formats\XmlToJson\bin\Debug\net6.0\XmlToJson.exe
+B:\Back-End Technologies Basics\4.Exercise Data Formats\XmlToJson\bin\Debug\net6.0\Datasets\Devices.xml
+B:\Back-End Technologies Basics\4.Exercise Data Formats\XmlToJson\bin\Debug\net6.0\Datasets\Vehicles.xml
+B:\Back-End Technologies Basics\4.Exercise Data Formats\XmlToJson\bin\Debug\net6.0\XmlToJson.deps.json
+B:\Back-End Technologies Basics\4.Exercise Data Formats\XmlToJson\bin\Debug\net6.0\XmlToJson.runtimeconfig.json
+B:\Back-End Technologies Basics\4.Exercise Data Formats\XmlToJson\bin\Debug\net6.0\XmlToJson.dll
+B:\Back-End Technologies Basics\4.Exercise Data Formats\XmlToJson\bin\Debug\net6.0\XmlToJson.pdb
+B:\Back-End Technologies Basics\4.Exercise Data Formats\XmlToJson\obj\Debug\net6.0\XmlToJson.GeneratedMSBuildEditorConfig.editorconfig
+B:\Back-End Technologies Basics\4.Exercise Data Formats\XmlToJson\obj\Debug\net6.0\XmlToJson.AssemblyInfoInputs.cache
+B:\Back-End Technologies Basics\4.Exercise Data Formats\XmlToJson\obj\Debug\net6.0\XmlToJson.AssemblyInfo.cs
+B:\Back-End Technologies Basics\4.Exercise Data Formats\XmlToJson\obj\Debug\net6.0\XmlToJson.csproj.CoreCompileInputs.cache
+B:\Back-End Technologies Basics\4.Exercise Data Formats\XmlToJson\obj\Debug\net6.0\XmlToJson.dll
+B:\Back-End Technologies Basics\4.Exercise Data Formats\XmlToJson\obj\Debug\net6.0\refint\XmlToJson.dll
+B:\Back-End Technologies Basics\4.Exercise Data Formats\XmlToJson\obj\Debug\net6.0\XmlToJson.pdb
+B:\Back-End Technologies Basics\4.Exercise Data Formats\XmlToJson\obj\Debug\net6.0\XmlToJson.genruntimeconfig.cache
+B:\Back-End Technologies Basics\4.Exercise Data Formats\XmlToJson\obj\Debug\net6.0\ref\XmlToJson.dll

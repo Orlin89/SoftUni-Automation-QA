@@ -1,0 +1,16 @@
+B:\Back-End Technologies Basics\4.Exercise Data Formats\JsonParser\bin\Debug\net8.0\JsonParser.exe
+B:\Back-End Technologies Basics\4.Exercise Data Formats\JsonParser\bin\Debug\net8.0\Datasets\Books.json
+B:\Back-End Technologies Basics\4.Exercise Data Formats\JsonParser\bin\Debug\net8.0\Datasets\Students.json
+B:\Back-End Technologies Basics\4.Exercise Data Formats\JsonParser\bin\Debug\net8.0\JsonParser.deps.json
+B:\Back-End Technologies Basics\4.Exercise Data Formats\JsonParser\bin\Debug\net8.0\JsonParser.runtimeconfig.json
+B:\Back-End Technologies Basics\4.Exercise Data Formats\JsonParser\bin\Debug\net8.0\JsonParser.dll
+B:\Back-End Technologies Basics\4.Exercise Data Formats\JsonParser\bin\Debug\net8.0\JsonParser.pdb
+B:\Back-End Technologies Basics\4.Exercise Data Formats\JsonParser\obj\Debug\net8.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+B:\Back-End Technologies Basics\4.Exercise Data Formats\JsonParser\obj\Debug\net8.0\JsonParser.AssemblyInfoInputs.cache
+B:\Back-End Technologies Basics\4.Exercise Data Formats\JsonParser\obj\Debug\net8.0\JsonParser.AssemblyInfo.cs
+B:\Back-End Technologies Basics\4.Exercise Data Formats\JsonParser\obj\Debug\net8.0\JsonParser.csproj.CoreCompileInputs.cache
+B:\Back-End Technologies Basics\4.Exercise Data Formats\JsonParser\obj\Debug\net8.0\JsonParser.dll
+B:\Back-End Technologies Basics\4.Exercise Data Formats\JsonParser\obj\Debug\net8.0\refint\JsonParser.dll
+B:\Back-End Technologies Basics\4.Exercise Data Formats\JsonParser\obj\Debug\net8.0\JsonParser.pdb
+B:\Back-End Technologies Basics\4.Exercise Data Formats\JsonParser\obj\Debug\net8.0\JsonParser.genruntimeconfig.cache
+B:\Back-End Technologies Basics\4.Exercise Data Formats\JsonParser\obj\Debug\net8.0\ref\JsonParser.dll

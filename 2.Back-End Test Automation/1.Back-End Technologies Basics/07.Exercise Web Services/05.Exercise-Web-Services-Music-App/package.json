@@ -1,0 +1,19 @@
+{
+  "name": "music-library-api",
+  "version": "1.0.0",
+  "description": "API for managing albums and user authentication",
+  "main": "server.js",
+  "scripts": {
+  "start": "concurrently \"node server.js\" \"node swagger-server.js\""
+}
+,
+  "dependencies": {
+    "express": "^4.17.1",
+    "swagger-ui-express": "^4.1.6"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "author": "",
+  "license": "ISC"
+}

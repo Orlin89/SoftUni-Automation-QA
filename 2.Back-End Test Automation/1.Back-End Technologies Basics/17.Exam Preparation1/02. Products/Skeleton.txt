@@ -1,0 +1,34 @@
+function solve(products) {
+  function getProductsByCategory(category) {
+    // TODO: Write your solution here
+  }
+
+  function addProduct(id, name, category, price, stock) {
+    // TODO: Write your solution here
+  }
+
+  function getProductById(id) {
+    // TODO: Write your solution here
+  }
+
+  function removeProductById(id) {
+    // TODO: Write your solution here
+  }
+
+  function updateProductPrice(id, newPrice) {
+    // TODO: Write your solution here
+  }
+
+  function updateProductStock(id, newStock) {
+    // TODO: Write your solution here
+  }
+
+  return {
+    getProductsByCategory,
+    addProduct,
+    getProductById,
+    removeProductById,
+    updateProductPrice,
+    updateProductStock
+  };
+}
