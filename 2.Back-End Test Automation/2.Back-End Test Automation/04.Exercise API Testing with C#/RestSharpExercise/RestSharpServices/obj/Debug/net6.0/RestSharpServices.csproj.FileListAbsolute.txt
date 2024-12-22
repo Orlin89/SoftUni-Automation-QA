@@ -1,0 +1,17 @@
+B:\Back-End Test Automation\04.Exercise API Testing with C#\RestSharpExercise\RestSharpServices\bin\Debug\net6.0\RestSharpServices.exe
+B:\Back-End Test Automation\04.Exercise API Testing with C#\RestSharpExercise\RestSharpServices\bin\Debug\net6.0\RestSharpServices.deps.json
+B:\Back-End Test Automation\04.Exercise API Testing with C#\RestSharpExercise\RestSharpServices\bin\Debug\net6.0\RestSharpServices.runtimeconfig.json
+B:\Back-End Test Automation\04.Exercise API Testing with C#\RestSharpExercise\RestSharpServices\bin\Debug\net6.0\RestSharpServices.dll
+B:\Back-End Test Automation\04.Exercise API Testing with C#\RestSharpExercise\RestSharpServices\bin\Debug\net6.0\RestSharpServices.pdb
+B:\Back-End Test Automation\04.Exercise API Testing with C#\RestSharpExercise\RestSharpServices\bin\Debug\net6.0\RestSharp.dll
+B:\Back-End Test Automation\04.Exercise API Testing with C#\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.csproj.AssemblyReference.cache
+B:\Back-End Test Automation\04.Exercise API Testing with C#\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.GeneratedMSBuildEditorConfig.editorconfig
+B:\Back-End Test Automation\04.Exercise API Testing with C#\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.AssemblyInfoInputs.cache
+B:\Back-End Test Automation\04.Exercise API Testing with C#\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.AssemblyInfo.cs
+B:\Back-End Test Automation\04.Exercise API Testing with C#\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.csproj.CoreCompileInputs.cache
+B:\Back-End Test Automation\04.Exercise API Testing with C#\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestShar.4277DC1C.Up2Date
+B:\Back-End Test Automation\04.Exercise API Testing with C#\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.dll
+B:\Back-End Test Automation\04.Exercise API Testing with C#\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\refint\RestSharpServices.dll
+B:\Back-End Test Automation\04.Exercise API Testing with C#\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.pdb
+B:\Back-End Test Automation\04.Exercise API Testing with C#\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\RestSharpServices.genruntimeconfig.cache
+B:\Back-End Test Automation\04.Exercise API Testing with C#\RestSharpExercise\RestSharpServices\obj\Debug\net6.0\ref\RestSharpServices.dll
