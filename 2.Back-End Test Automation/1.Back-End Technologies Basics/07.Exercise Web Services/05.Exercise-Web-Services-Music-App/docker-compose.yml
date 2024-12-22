@@ -1,0 +1,9 @@
+version: '3'
+services:
+  app:
+    build: .
+    ports:
+      - "3030:3030"
+      - "3300:3300"
+    environment:
+      SWAGGER_PORT: 3300
