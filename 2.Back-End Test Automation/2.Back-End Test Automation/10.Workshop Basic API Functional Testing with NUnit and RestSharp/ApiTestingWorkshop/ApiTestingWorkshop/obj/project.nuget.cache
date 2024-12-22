@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "owGGuQpbjti4CsBEgyZD3Nt/UfDuYO/cDz3y9jboypP5ztMvqlePgc7pdghVLgENXB4wFZ1mQtWrc6Qc1cMYTw==",
+  "success": true,
+  "projectFilePath": "B:\\Back-End Test Automation\\10.Workshop Basic API Functional Testing with NUnit and RestSharp\\ApiTestingWorkshop\\ApiTestingWorkshop\\ApiTestingWorkshop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dreamwalk3r\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\dreamwalk3r\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\dreamwalk3r\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\dreamwalk3r\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

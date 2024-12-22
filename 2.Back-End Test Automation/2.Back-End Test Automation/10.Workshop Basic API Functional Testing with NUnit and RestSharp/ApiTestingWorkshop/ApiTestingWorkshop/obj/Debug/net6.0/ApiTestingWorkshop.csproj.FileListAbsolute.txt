@@ -1,0 +1,14 @@
+B:\Back-End Test Automation\10.Workshop Basic API Functional Testing with NUnit and RestSharp\ApiTestingWorkshop\ApiTestingWorkshop\bin\Debug\net6.0\ApiTestingWorkshop.exe
+B:\Back-End Test Automation\10.Workshop Basic API Functional Testing with NUnit and RestSharp\ApiTestingWorkshop\ApiTestingWorkshop\bin\Debug\net6.0\ApiTestingWorkshop.deps.json
+B:\Back-End Test Automation\10.Workshop Basic API Functional Testing with NUnit and RestSharp\ApiTestingWorkshop\ApiTestingWorkshop\bin\Debug\net6.0\ApiTestingWorkshop.runtimeconfig.json
+B:\Back-End Test Automation\10.Workshop Basic API Functional Testing with NUnit and RestSharp\ApiTestingWorkshop\ApiTestingWorkshop\bin\Debug\net6.0\ApiTestingWorkshop.dll
+B:\Back-End Test Automation\10.Workshop Basic API Functional Testing with NUnit and RestSharp\ApiTestingWorkshop\ApiTestingWorkshop\bin\Debug\net6.0\ApiTestingWorkshop.pdb
+B:\Back-End Test Automation\10.Workshop Basic API Functional Testing with NUnit and RestSharp\ApiTestingWorkshop\ApiTestingWorkshop\obj\Debug\net6.0\ApiTestingWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+B:\Back-End Test Automation\10.Workshop Basic API Functional Testing with NUnit and RestSharp\ApiTestingWorkshop\ApiTestingWorkshop\obj\Debug\net6.0\ApiTestingWorkshop.AssemblyInfoInputs.cache
+B:\Back-End Test Automation\10.Workshop Basic API Functional Testing with NUnit and RestSharp\ApiTestingWorkshop\ApiTestingWorkshop\obj\Debug\net6.0\ApiTestingWorkshop.AssemblyInfo.cs
+B:\Back-End Test Automation\10.Workshop Basic API Functional Testing with NUnit and RestSharp\ApiTestingWorkshop\ApiTestingWorkshop\obj\Debug\net6.0\ApiTestingWorkshop.csproj.CoreCompileInputs.cache
+B:\Back-End Test Automation\10.Workshop Basic API Functional Testing with NUnit and RestSharp\ApiTestingWorkshop\ApiTestingWorkshop\obj\Debug\net6.0\ApiTestingWorkshop.dll
+B:\Back-End Test Automation\10.Workshop Basic API Functional Testing with NUnit and RestSharp\ApiTestingWorkshop\ApiTestingWorkshop\obj\Debug\net6.0\refint\ApiTestingWorkshop.dll
+B:\Back-End Test Automation\10.Workshop Basic API Functional Testing with NUnit and RestSharp\ApiTestingWorkshop\ApiTestingWorkshop\obj\Debug\net6.0\ApiTestingWorkshop.pdb
+B:\Back-End Test Automation\10.Workshop Basic API Functional Testing with NUnit and RestSharp\ApiTestingWorkshop\ApiTestingWorkshop\obj\Debug\net6.0\ApiTestingWorkshop.genruntimeconfig.cache
+B:\Back-End Test Automation\10.Workshop Basic API Functional Testing with NUnit and RestSharp\ApiTestingWorkshop\ApiTestingWorkshop\obj\Debug\net6.0\ref\ApiTestingWorkshop.dll

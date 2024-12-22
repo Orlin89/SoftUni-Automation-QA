@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\Back-End Test Automation\\10.Workshop Basic API Functional Testing with NUnit and RestSharp\\ApiTestingBasics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4F6237-0D16-4EE4-8F67-D6D0F60C6EAF}|ApiTestingBasics.csproj|b:\\back-end test automation\\10.workshop basic api functional testing with nunit and restsharp\\apitestingbasics\\blogapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4F6237-0D16-4EE4-8F67-D6D0F60C6EAF}|ApiTestingBasics.csproj|solutionrelative:blogapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4F6237-0D16-4EE4-8F67-D6D0F60C6EAF}|ApiTestingBasics.csproj|b:\\back-end test automation\\10.workshop basic api functional testing with nunit and restsharp\\apitestingbasics\\productapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4F6237-0D16-4EE4-8F67-D6D0F60C6EAF}|ApiTestingBasics.csproj|solutionrelative:productapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4F6237-0D16-4EE4-8F67-D6D0F60C6EAF}|ApiTestingBasics.csproj|b:\\back-end test automation\\10.workshop basic api functional testing with nunit and restsharp\\apitestingbasics\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4F6237-0D16-4EE4-8F67-D6D0F60C6EAF}|ApiTestingBasics.csproj|solutionrelative:globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4F6237-0D16-4EE4-8F67-D6D0F60C6EAF}|ApiTestingBasics.csproj|b:\\back-end test automation\\10.workshop basic api functional testing with nunit and restsharp\\apitestingbasics\\couponapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4F6237-0D16-4EE4-8F67-D6D0F60C6EAF}|ApiTestingBasics.csproj|solutionrelative:couponapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4F6237-0D16-4EE4-8F67-D6D0F60C6EAF}|ApiTestingBasics.csproj|b:\\back-end test automation\\10.workshop basic api functional testing with nunit and restsharp\\apitestingbasics\\brandapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4F6237-0D16-4EE4-8F67-D6D0F60C6EAF}|ApiTestingBasics.csproj|solutionrelative:brandapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4F6237-0D16-4EE4-8F67-D6D0F60C6EAF}|ApiTestingBasics.csproj|b:\\back-end test automation\\10.workshop basic api functional testing with nunit and restsharp\\apitestingbasics\\globalconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4F6237-0D16-4EE4-8F67-D6D0F60C6EAF}|ApiTestingBasics.csproj|solutionrelative:globalconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4F6237-0D16-4EE4-8F67-D6D0F60C6EAF}|ApiTestingBasics.csproj|b:\\back-end test automation\\10.workshop basic api functional testing with nunit and restsharp\\apitestingbasics\\colorapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4F6237-0D16-4EE4-8F67-D6D0F60C6EAF}|ApiTestingBasics.csproj|solutionrelative:colorapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CouponApiTests.cs",
+              "DocumentMoniker": "B:\\Back-End Test Automation\\10.Workshop Basic API Functional Testing with NUnit and RestSharp\\ApiTestingBasics\\CouponApiTests.cs",
+              "RelativeDocumentMoniker": "CouponApiTests.cs",
+              "ToolTip": "B:\\Back-End Test Automation\\10.Workshop Basic API Functional Testing with NUnit and RestSharp\\ApiTestingBasics\\CouponApiTests.cs",
+              "RelativeToolTip": "CouponApiTests.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:09:37.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ColorApiTests.cs",
+              "DocumentMoniker": "B:\\Back-End Test Automation\\10.Workshop Basic API Functional Testing with NUnit and RestSharp\\ApiTestingBasics\\ColorApiTests.cs",
+              "RelativeDocumentMoniker": "ColorApiTests.cs",
+              "ToolTip": "B:\\Back-End Test Automation\\10.Workshop Basic API Functional Testing with NUnit and RestSharp\\ApiTestingBasics\\ColorApiTests.cs",
+              "RelativeToolTip": "ColorApiTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:09:37.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BrandApiTests.cs",
+              "DocumentMoniker": "B:\\Back-End Test Automation\\10.Workshop Basic API Functional Testing with NUnit and RestSharp\\ApiTestingBasics\\BrandApiTests.cs",
+              "RelativeDocumentMoniker": "BrandApiTests.cs",
+              "ToolTip": "B:\\Back-End Test Automation\\10.Workshop Basic API Functional Testing with NUnit and RestSharp\\ApiTestingBasics\\BrandApiTests.cs",
+              "RelativeToolTip": "BrandApiTests.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAvwG4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:09:37.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogApiTests.cs",
+              "DocumentMoniker": "B:\\Back-End Test Automation\\10.Workshop Basic API Functional Testing with NUnit and RestSharp\\ApiTestingBasics\\BlogApiTests.cs",
+              "RelativeDocumentMoniker": "BlogApiTests.cs",
+              "ToolTip": "B:\\Back-End Test Automation\\10.Workshop Basic API Functional Testing with NUnit and RestSharp\\ApiTestingBasics\\BlogApiTests.cs",
+              "RelativeToolTip": "BlogApiTests.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:09:37.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductApiTests.cs",
+              "DocumentMoniker": "B:\\Back-End Test Automation\\10.Workshop Basic API Functional Testing with NUnit and RestSharp\\ApiTestingBasics\\ProductApiTests.cs",
+              "RelativeDocumentMoniker": "ProductApiTests.cs",
+              "ToolTip": "B:\\Back-End Test Automation\\10.Workshop Basic API Functional Testing with NUnit and RestSharp\\ApiTestingBasics\\ProductApiTests.cs",
+              "RelativeToolTip": "ProductApiTests.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAswKoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:09:37.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GlobalConstants.cs",
+              "DocumentMoniker": "B:\\Back-End Test Automation\\10.Workshop Basic API Functional Testing with NUnit and RestSharp\\ApiTestingBasics\\GlobalConstants.cs",
+              "RelativeDocumentMoniker": "GlobalConstants.cs",
+              "ToolTip": "B:\\Back-End Test Automation\\10.Workshop Basic API Functional Testing with NUnit and RestSharp\\ApiTestingBasics\\GlobalConstants.cs",
+              "RelativeToolTip": "GlobalConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:09:37.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "B:\\Back-End Test Automation\\10.Workshop Basic API Functional Testing with NUnit and RestSharp\\ApiTestingBasics\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "GlobalUsings.cs",
+              "ToolTip": "B:\\Back-End Test Automation\\10.Workshop Basic API Functional Testing with NUnit and RestSharp\\ApiTestingBasics\\GlobalUsings.cs",
+              "RelativeToolTip": "GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:09:37.318Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
