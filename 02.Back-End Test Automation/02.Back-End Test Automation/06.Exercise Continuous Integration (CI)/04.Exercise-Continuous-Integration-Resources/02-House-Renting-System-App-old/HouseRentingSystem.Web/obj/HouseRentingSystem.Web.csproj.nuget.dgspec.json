@@ -1,0 +1,95 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\repos\\SoftUni\\September-2024\\02.Back-End-Test-Automation\\04.Exercise-Continuous-Integration\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App-old\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj": {}
+  },
+  "projects": {
+    "D:\\repos\\SoftUni\\September-2024\\02.Back-End-Test-Automation\\04.Exercise-Continuous-Integration\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App-old\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\repos\\SoftUni\\September-2024\\02.Back-End-Test-Automation\\04.Exercise-Continuous-Integration\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App-old\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj",
+        "projectName": "HouseRentingSystem.Web",
+        "projectPath": "D:\\repos\\SoftUni\\September-2024\\02.Back-End-Test-Automation\\04.Exercise-Continuous-Integration\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App-old\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\repos\\SoftUni\\September-2024\\02.Back-End-Test-Automation\\04.Exercise-Continuous-Integration\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App-old\\HouseRentingSystem.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\repos\\SoftUni\\September-2024\\02.Back-End-Test-Automation\\04.Exercise-Continuous-Integration\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App-old\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj": {
+                "projectPath": "D:\\repos\\SoftUni\\September-2024\\02.Back-End-Test-Automation\\04.Exercise-Continuous-Integration\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App-old\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

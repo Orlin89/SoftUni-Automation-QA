@@ -1,0 +1,360 @@
+{
+  "id": "abab6954-68c0-49a2-a40b-eeda24572647",
+  "version": "2.0",
+  "name": "MovieCatalogSeleniumIDE",
+  "url": "https://d24hkho2ozf732.cloudfront.net/",
+  "tests": [{
+    "id": "9583eb95-c9da-4925-be86-2c30544e2a30",
+    "name": "01.LandingPageNavigationTest(Non-Logged User)",
+    "commands": [{
+      "id": "354ad49c-2636-414e-b657-16906c75a804",
+      "comment": "",
+      "command": "open",
+      "target": "https://d24hkho2ozf732.cloudfront.net/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "4ed5e04e-ac84-438d-8fe4-3472fb46add9",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1936x1056",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "88c4c97e-715b-400d-ab2d-8d74e813d99e",
+      "comment": "",
+      "command": "verifyTitle",
+      "target": "Movie Catalog",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d62e1c7c-76d8-42e2-a3b8-0422ba2f1c26",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "css=.nav-item:nth-child(1) > .nav-link",
+      "targets": [
+        ["css=.nav-item:nth-child(1) > .nav-link", "css:finder"],
+        ["xpath=//a[contains(text(),'About Us')]", "xpath:link"],
+        ["xpath=//div[@id='navbarResponsive']/ul/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/#about')]", "xpath:href"],
+        ["xpath=//li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "bb384bc1-31ac-4c81-bfb0-cd69158e3b8b",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "css=.nav-item:nth-child(2) > .nav-link",
+      "targets": [
+        ["css=.nav-item:nth-child(2) > .nav-link", "css:finder"],
+        ["xpath=//a[contains(text(),'Our Services')]", "xpath:link"],
+        ["xpath=//div[@id='navbarResponsive']/ul/li[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/#services')]", "xpath:href"],
+        ["xpath=//li[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "cd90bde1-cc62-4653-b292-769eca95b4fc",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "css=.nav-item:nth-child(3) > .nav-link",
+      "targets": [
+        ["css=.nav-item:nth-child(3) > .nav-link", "css:finder"],
+        ["xpath=//a[contains(text(),'Login')]", "xpath:link"],
+        ["xpath=//div[@id='navbarResponsive']/ul/li[3]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/#login')]", "xpath:href"],
+        ["xpath=//li[3]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4dc8d798-cfe7-40a9-862d-13c81b1937c6",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "css=.nav-item:nth-child(4) > .nav-link",
+      "targets": [
+        ["css=.nav-item:nth-child(4) > .nav-link", "css:finder"],
+        ["xpath=//a[contains(text(),'Register')]", "xpath:link"],
+        ["xpath=//div[@id='navbarResponsive']/ul/li[4]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/#register')]", "xpath:href"],
+        ["xpath=//li[4]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "7ecda983-5546-4a7a-810a-2919af1c2f30",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "css=.nav-item:nth-child(5) > .nav-link",
+      "targets": [
+        ["css=.nav-item:nth-child(5) > .nav-link", "css:finder"],
+        ["xpath=//a[contains(text(),'Copyrights')]", "xpath:link"],
+        ["xpath=//div[@id='navbarResponsive']/ul/li[5]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/#copyrights')]", "xpath:href"],
+        ["xpath=//li[5]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "427f1b49-f82d-4821-a6e3-5d8bf71fcaa2",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "6480bddc-fddf-418d-b7ac-504feaca7528",
+    "name": "02.LogInTest",
+    "commands": [{
+      "id": "09cd3d4f-5fcf-4a7e-8e57-61acbe4c8ad9",
+      "comment": "",
+      "command": "open",
+      "target": "https://d24hkho2ozf732.cloudfront.net/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0b41d8bd-bb28-4056-8ad8-55fb88390b55",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1936x1056",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "4d282bbf-e3f8-4ffd-b2a0-32e9a0865c6e",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//a[text()='Login']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d5bb75e1-2e8d-4541-9afb-161528a8b3cc",
+      "comment": "",
+      "command": "waitForElementPresent",
+      "target": "xpath=//a[text()='LOGIN HERE']",
+      "targets": [],
+      "value": "30000"
+    }, {
+      "id": "cd016347-362b-4a83-8ba6-9a95eb6c92d6",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//a[text()='LOGIN HERE']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e8d188a8-7cc8-44bb-a4a9-882527469e46",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@name='Email']",
+      "targets": [],
+      "value": "prien@abv.bg"
+    }, {
+      "id": "491e4334-dbc4-414d-b54a-1598812fa027",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@name='Password']",
+      "targets": [],
+      "value": "P@r0la1122334455!"
+    }, {
+      "id": "15c62d71-624a-445f-a69c-167ffe77d9a1",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//button[@type='submit']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "301258ae-b2f2-4389-a2f9-6b7f436ca74e",
+      "comment": "",
+      "command": "verifyText",
+      "target": "xpath=//div[@class='subheading mb-5']",
+      "targets": [],
+      "value": "WELCOME, ORLIN_VLADIMIROV!"
+    }, {
+      "id": "32184b9d-1180-4d34-993b-a1cd07f08920",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//a[text()='Add Movie']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9051aa7c-c1d4-4322-aa1b-f55e73669b18",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//a[text()='All Movies']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e5d21c84-7a8a-4a81-a7a9-3fef9779c32b",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//a[text()='Watched Movies']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6c50826e-7224-4247-a7f2-d079a012859c",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//a[text()='Unwatched Movies']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "93fa0928-6c61-4cfb-baf5-7c14c2eea944",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//button[text()='Logout']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6ca2e7e9-a3e8-42c6-8a5f-36fd6a393197",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "xpath=//div[@class='subheading mb-5']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a497483b-13c7-4771-9d64-ac2f55c800df",
+      "comment": "",
+      "command": "verifyText",
+      "target": "xpath=//div[@class='subheading mb-5']",
+      "targets": [],
+      "value": "YOUR PERSONALIZED MOVIE SANCTUARY!"
+    }, {
+      "id": "06c6d5ec-7b38-499f-8827-c989765ac1e7",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "caecfb4f-c129-4648-8964-561970a442ba",
+    "name": "03.EditProfileTest",
+    "commands": [{
+      "id": "9825e025-d01c-41b6-b9f3-f6292cae7d6a",
+      "comment": "",
+      "command": "open",
+      "target": "https://d24hkho2ozf732.cloudfront.net/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "bcd58b5f-6625-49e5-90a1-4572a3aee7d6",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1936x1056",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2bd68e40-abd7-40c6-a965-2192246feaa5",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//a[text()='Login']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2dbeec3c-b0a9-4c8f-acda-7fd16c3dccce",
+      "comment": "",
+      "command": "waitForElementPresent",
+      "target": "xpath=//a[text()='LOGIN HERE']",
+      "targets": [],
+      "value": "30000"
+    }, {
+      "id": "d6f030cb-0f2d-4f19-bd17-2fd64bf2c199",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//a[text()='LOGIN HERE']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6dde460a-f86d-4815-97dc-0f35c0d98f8d",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@name='Email']",
+      "targets": [],
+      "value": "prien@abv.bg"
+    }, {
+      "id": "af15a409-cb0e-437b-a97a-3d5b5f04af36",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@name='Password']",
+      "targets": [],
+      "value": "P@r0la1122334455!"
+    }, {
+      "id": "583034b6-6f02-40eb-a54d-b2caef296ac6",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//button[@type='submit']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "283bc0fc-4f4a-4837-a634-8482e5ea8713",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//span[@class='d-none d-lg-block']//img",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e3b50ccc-37e8-4b55-8e91-5ba70b52b212",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//a[@href='/Profile/Edit']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3fccd28a-d5ca-4cb7-9a2e-565ffe9ffa6f",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@name='FirstName']",
+      "targets": [],
+      "value": "EditedFirstName"
+    }, {
+      "id": "4ae6f7d6-753e-4d47-960b-6851ed8240c2",
+      "comment": "",
+      "command": "type",
+      "target": "xpath=//input[@name='LastName']",
+      "targets": [],
+      "value": "EditedLastName"
+    }, {
+      "id": "e50d32d8-f7ec-41c9-a7fb-fe96a1b4fc73",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//button[text()='Edit']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b33686d8-ecdc-4484-a409-55a56cf95551",
+      "comment": "",
+      "command": "verifyText",
+      "target": "xpath=//h6",
+      "targets": [],
+      "value": "EDITEDFIRSTNAME EDITEDLASTNAME"
+    }, {
+      "id": "4d72b29d-dde0-4c09-9f59-6464f1d1a5aa",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//button[text()='Logout']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8f154347-f897-4399-b433-9c7150ae22d3",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "//li[@class='nav-item']//a[text()='Login']",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b0709450-2729-44f8-af58-c35f994ef91e",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "f52c7544-bbee-4249-96d7-5a86a9589b0d",
+    "name": "MovieCatalogTests",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["9583eb95-c9da-4925-be86-2c30544e2a30", "6480bddc-fddf-418d-b7ac-504feaca7528", "caecfb4f-c129-4648-8964-561970a442ba"]
+  }],
+  "urls": ["https://d24hkho2ozf732.cloudfront.net/"],
+  "plugins": []
+}

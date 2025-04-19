@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="./style/css/styles.css" />
+  <title>Smoothie Order System</title>
+</head>
+
+<body class="body">
+  <h1>Smoothie Order System</h1>
+  <main id="content">
+    <div class="form-container">
+      <form class="smoothie-form">
+        <input type="text" id="customer-name" placeholder="Your Name" />
+        <select id="base-choice">
+          <option value="" selected disabled>Choose Base</option>
+          <option value="Milk">Milk</option>
+          <option value="Almond Milk">Almond Milk</option>
+          <option value="Yogurt">Yogurt</option>
+        </select>
+        <select id="fruit-choice">
+          <option value="" selected disabled>Choose Fruit</option>
+          <option value="Strawberries">Strawberries</option>
+          <option value="Banana">Banana</option>
+          <option value="Mango">Mango</option>
+          <option value="Mixed Berries">Mixed Berries</option>
+        </select>
+        <input type="number" id="sweetener-amount" placeholder="Sweetener (tsp)" min="0" />
+      </form>
+      <button id="order-btn">Customize Smoothie</button>
+    </div>
+  </main>
+  <div class="bottom-content">
+    <div class="preview" id="order-preview" style="display: none;">
+        <article>
+            <p>Name: <span id="preview-name"></span></p>
+            <p>Base: <span id="preview-base"></span></p>
+            <p>Fruits: <span id="preview-fruit"></span></p>
+            <p>Sweetener: <span id="preview-sweetener"></span> tsp</p>
+        </article>
+        <div class="btn-container">
+        <button id="edit-btn">Edit</button>
+        <button id="confirm-btn">Confirm</button>
+        </div>
+    </div>
+    <div id="order-success" style="display: none;">
+      <h2>Your Smoothie is Ready!</h2>
+      <button id="back-btn">Back</button>
+    </div>
+  </div>
+  <script src="app.js"></script>
+</body>
+
+</html>

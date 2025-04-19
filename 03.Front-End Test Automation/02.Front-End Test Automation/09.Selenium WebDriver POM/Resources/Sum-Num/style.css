@@ -1,0 +1,22 @@
+h1 {
+    margin: 0px 0px 10px 0px;
+  }
+  
+  form {
+    background: #eee;
+    padding: 10px;
+  }
+  
+  .buttons-bar, .row, #result {
+      margin-top: 5px;
+  }
+  
+  h4, pre {
+    display: inline;
+  }
+  
+  #result > i {
+    color: red;
+  }
+  
+  

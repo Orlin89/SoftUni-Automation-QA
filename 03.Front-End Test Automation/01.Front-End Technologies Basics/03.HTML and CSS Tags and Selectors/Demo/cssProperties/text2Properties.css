@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+}
+
+div {
+    width: 400px;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+/* text-decoration свойства */
+.text-underline {
+    text-decoration: underline;
+}
+
+.text-overline {
+    text-decoration: overline;
+}
+
+.text-line-through {
+    text-decoration: line-through;
+}
+
+.text-none {
+    text-decoration: none;
+}
+
+/* text-transform свойства */
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+.text-lowercase {
+    text-transform: lowercase;
+}
+
+.text-capitalize {
+    text-transform: capitalize;
+}

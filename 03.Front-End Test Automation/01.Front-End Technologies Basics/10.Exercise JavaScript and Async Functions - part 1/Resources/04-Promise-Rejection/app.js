@@ -1,0 +1,3 @@
+function promiseRejection() {
+    // TODO
+}

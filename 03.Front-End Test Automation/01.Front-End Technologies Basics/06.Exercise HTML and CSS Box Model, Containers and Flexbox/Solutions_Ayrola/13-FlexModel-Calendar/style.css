@@ -1,0 +1,44 @@
+html {
+  font-family: Helvetica, sans-serif; /* Основен шрифт */
+  box-sizing: border-box; /* Включва padding и border в изчисленията за размерите */
+}
+
+* {
+  box-sizing: inherit; /* Наследява box-sizing за всички елементи */
+}
+
+div {
+  max-width: 65vw; /* Максимална ширина на контейнера */
+  display: flex; /* Flexbox контейнер */
+}
+
+span {
+  border: 1px solid black; /* Рамка около span елементите */
+  padding: 20px 20px 70px 20px; /* Вътрешно отстояние */
+  text-align: center; /* Центриране на текста вътре в span */
+}
+
+.week {
+  flex-basis: 70%; /* Заема 70% от ширината на родителя */
+  display: flex; /* Flexbox за подредба на вътрешни елементи */
+  flex-wrap: wrap; /* Позволява прехвърляне на нов ред при нужда */
+}
+
+.notes {
+  flex-basis: 30%; /* Заема 30% от ширината на родителя */
+  display: flex; /* Flexbox за вътрешно съдържание */
+  flex-direction: column; /* Подрежда елементите вертикално */
+}
+
+.workweek,
+.weekend {
+  flex-basis: 100%; /* Всеки елемент заема цялата ширина */
+}
+
+.week span {
+  flex-grow: 1; /* Елементите в .week се разширяват, за да заемат равномерно наличното пространство */
+}
+
+.notes span {
+  flex-grow: 1; /* Елементите в .notes се разширяват равномерно */
+}

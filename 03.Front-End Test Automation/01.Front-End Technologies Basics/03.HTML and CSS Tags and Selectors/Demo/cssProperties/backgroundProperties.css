@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+}
+
+div {
+    width: 300px;
+    height: 100px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Фон с цвят */
+.background-color {
+    background-color: lightblue;
+}
+
+/* Фон с изображение */
+.background-image {
+    background-image: url('../images/logo.png'); /* Уверете се, че имате изображение с това име в същата папка */
+    background-size: cover;
+}
+
+/* Фон с повторение */
+.background-repeat {
+    background-image: url('../images/logo.png');
+    background-repeat: repeat;
+}
+
+/* Фон с повторение по хоризонтала */
+.background-repeat-x {
+    background-image: url('../images/logo.png');
+    background-repeat: repeat-x;
+}
+
+/* Фон с повторение по вертикала */
+.background-repeat-y {
+    background-image: url('../images/logo.png');
+    background-repeat: repeat-y;
+}
+
+/* Фон без повторение */
+.background-no-repeat {
+    background-image: url('../images/logo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Фон с позиция */
+.background-position {
+    background-image: url('../images/logo.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}

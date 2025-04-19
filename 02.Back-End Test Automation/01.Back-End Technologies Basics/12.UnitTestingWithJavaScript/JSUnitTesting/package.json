@@ -1,0 +1,16 @@
+{
+  "name": "jsunittesting",
+  "version": "1.0.0",
+  "description": "test description",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha test/03_RgbToHexTests.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^10.7.3"
+  }
+}

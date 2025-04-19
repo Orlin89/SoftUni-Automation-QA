@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+}
+
+div {
+    width: 400px;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+
+/* Текст с цвят */
+.text-color {
+    color: darkblue;
+}
+
+/* Подравняване вляво */
+.text-align-left {
+    text-align: left;
+}
+
+/* Подравняване вдясно */
+.text-align-right {
+    text-align: right;
+}
+
+/* Центриране на текста */
+.text-align-center {
+    text-align: center;
+}
+
+/* Подравняване по ширина */
+.text-align-justify {
+    text-align: justify;
+}
+
+/* Отстъп в началото */
+.text-indent {
+    text-indent: 30px;
+}

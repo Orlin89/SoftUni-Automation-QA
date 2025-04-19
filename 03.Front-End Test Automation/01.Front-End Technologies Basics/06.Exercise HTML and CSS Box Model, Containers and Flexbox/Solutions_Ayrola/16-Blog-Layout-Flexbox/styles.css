@@ -1,0 +1,89 @@
+html {
+    font-family: Helvetica, sans-serif; /* Основен шрифт */
+    font-size: 16px; /* Базов размер на шрифта */
+    line-height: 1.5; /* Разстояние между редовете */
+  }
+  
+  body {
+    background-color: rgb(238, 238, 238); /* Светлосив фон */
+    padding: 20px 370px; /* Вътрешно отстояние отстрани */
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: Georgia, serif; /* Специален шрифт за заглавията */
+    font-size: 1.2em; /* Относителен размер на шрифта */
+  }
+  
+  .site-header {
+    border-bottom: 3px solid black; /* Черна долна линия за хедъра */
+  }
+  
+  .site-title {
+    text-transform: uppercase; /* Превръщане на текста в главни букви */
+    margin: 10px 0; /* Външно отстояние отгоре и отдолу */
+    font-weight: bold; /* Удебелен текст */
+    font-size: 35px; /* Размер на шрифта */
+  }
+  
+  img {
+    padding: 5px; /* Вътрешно отстояние за изображението */
+    border: 3px solid black; /* Черна рамка около изображението */
+    background-color: rgb(255, 255, 255); /* Бял фон зад изображението */
+    box-shadow: 0px 0px 2px 2px rgba(0, 0, 0, 0.25); /* Леко затъмнена сянка */
+  }
+  
+  blockquote {
+    border-left: 3px solid lightgray; /* Сива линия отляво за цитата */
+    padding-left: 20px; /* Отстояние от лявата рамка */
+    font-style: italic; /* Курсивен текст */
+    color: gray; /* Сив цвят за текста */
+    font-family: Georgia, serif; /* Шрифт за цитата */
+    flex-basis: 50%; /* Ширина от 50% */
+  }
+  
+  figcaption {
+    text-align: right; /* Подравняване на надписите вдясно */
+  }
+  
+  nav li a {
+    color: rgb(0, 153, 0); /* Зелен цвят за линковете */
+  }
+  
+  main {
+    flex-basis: 80%; /* Главното съдържание заема 80% от ширината */
+    margin-right: 10px; /* Отстояние вдясно */
+  }
+  
+  aside {
+    flex-basis: 20%; /* Страничното съдържание заема 20% от ширината */
+    margin-left: 10px; /* Отстояние вляво */
+  }
+  
+  div {
+    display: flex; /* Flexbox за подредба на вътрешните елементи */
+    flex-wrap: wrap; /* Позволява прехвърляне на елементите на нов ред */
+  }
+  
+  .blockquote-container {
+    display: flex; /* Flexbox за подредба на елементите вътре */
+  }
+  
+  .blockquote-container-text {
+    flex-basis: 50%; /* Всеки текст заема 50% от пространството */
+  }
+  
+  .first-img {
+    float: right; /* Изображението се подравнява вдясно */
+    margin: 20px; /* Отстояние от всички страни */
+  }
+  
+  .second-img {
+    float: left; /* Изображението се подравнява вляво */
+    margin: 20px; /* Отстояние от всички страни */
+  }
+  

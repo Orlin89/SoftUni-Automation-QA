@@ -1,0 +1,24 @@
+html {
+    font-family: Helvetica, sans-serif; /* Основен шрифт за страницата */
+  }
+  
+  body {
+    background-color: rgb(238, 238, 238); /* Светлосив фон */
+    display: flex; /* Flexbox за подравняване */
+    justify-content: center; /* Хоризонтално центриране на съдържанието */
+    align-content: center; /* Центриране на съдържанието по крос оста */
+    min-height: 100vh; /* Минимална височина на тялото да заема 100% от прозореца */
+    align-items: center; /* Вертикално центриране на съдържанието */
+  }
+  
+  .card {
+    background-color: rgb(255, 255, 255); /* Бял фон за картата */
+    box-shadow: 0px 0px 2px 3px rgba(0, 0, 0, 0.25); /* Лека сянка около картата */
+    border-radius: 5px; /* Закръглени ъгли на картата */
+    padding: 12px 10px; /* Вътрешно отстояние */
+  }
+  
+  h2 {
+    font-family: Georgia, serif; /* Шрифт за заглавията */
+  }
+  

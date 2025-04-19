@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\SoftUni\\September-2024\\02.Back-End-Test-Automation\\04.Exercise-Continuous-Integration\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App-old\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E98B03C-8D51-48E2-92AB-9BEECB694190}|HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj|d:\\repos\\softuni\\september-2024\\02.back-end-test-automation\\04.exercise-continuous-integration\\04.exercise-continuous-integration-resources\\02-house-renting-system-app-old\\houserentingsystem.web\\houserentingsystem.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E98B03C-8D51-48E2-92AB-9BEECB694190}|HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj|solutionrelative:houserentingsystem.web\\houserentingsystem.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HouseRentingSystem.Web",
+              "DocumentMoniker": "D:\\repos\\SoftUni\\September-2024\\02.Back-End-Test-Automation\\04.Exercise-Continuous-Integration\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App-old\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj",
+              "RelativeDocumentMoniker": "HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj",
+              "ToolTip": "D:\\repos\\SoftUni\\September-2024\\02.Back-End-Test-Automation\\04.Exercise-Continuous-Integration\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App-old\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj",
+              "RelativeToolTip": "HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T12:49:03.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

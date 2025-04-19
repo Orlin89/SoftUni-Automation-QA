@@ -1,0 +1,20 @@
+.green {
+    background-image: linear-gradient(to right, #078bac, #5e91a5, rgb(98, 113, 117));
+    text-align: center;
+}
+
+.red {
+    background-image: linear-gradient(to right, #ce90b2, #cf9a4a, rgb(211, 94, 48));
+    text-align: center;
+}
+
+div {
+   border: solid 0.0px;
+   padding: 250px;
+   position: relative;
+}
+
+i {
+    color: white;
+    transform: translate(-150%, -50%)
+}
